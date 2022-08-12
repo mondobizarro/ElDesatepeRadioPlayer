@@ -1,0 +1,290 @@
+﻿<Mappings><Entry OldName="ElDestapeRadioPlayer.Properties.Resources.resourceMan" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.ce4cf4f438e7b3037ab59c4aa8743ba96" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.resourceCulture" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.cda41cd574b932680952fdaa121740057" />
+<Entry OldName="ElDestapeRadio.About.waveOut" NewName="ElDestapeRadio.About.c1506db9a631db4e460a2c4afdc3f7a62" />
+<Entry OldName="ElDestapeRadio.About.components" NewName="ElDestapeRadio.About.c701a58b5e66812d0820a1edebcb8dc68" />
+<Entry OldName="ElDestapeRadio.About.pictureBox1" NewName="ElDestapeRadio.About.cd253587d70e6de233565da1bb233a258" />
+<Entry OldName="ElDestapeRadio.About.lbContacto" NewName="ElDestapeRadio.About.ceff2168149a910d3f94deb4b5a2b217e" />
+<Entry OldName="ElDestapeRadio.About.label1" NewName="ElDestapeRadio.About.c734746cdea5585a88f49f63c873f1c09" />
+<Entry OldName="ElDestapeRadio.Main.isPlaying" NewName="ElDestapeRadio.Main.cdbd32a78f5a9ea4ab2d545f0c768c423" />
+<Entry OldName="ElDestapeRadio.Main.isInterrupted" NewName="ElDestapeRadio.Main.c9c498f97d79d5a622e48ee922b659edd" />
+<Entry OldName="ElDestapeRadio.Main.pId" NewName="ElDestapeRadio.Main.c4efeafaeee6b72e60c53872105381b9d" />
+<Entry OldName="ElDestapeRadio.Main.&lt;playerThread&gt;k__BackingField" NewName="ElDestapeRadio.Main.c5ee4ad97f10da4dcb8ac382711751a66" />
+<Entry OldName="ElDestapeRadio.Main.components" NewName="ElDestapeRadio.Main.c701a58b5e66812d0820a1edebcb8dc68" />
+<Entry OldName="ElDestapeRadio.Main.btnPlay" NewName="ElDestapeRadio.Main.c36316f7be5938074b12ecb3b6c51e81a" />
+<Entry OldName="ElDestapeRadio.Main.btnStop" NewName="ElDestapeRadio.Main.cc5cb7f7af4889a48c932b3a8e9c8e2e3" />
+<Entry OldName="ElDestapeRadio.Main.chkMute" NewName="ElDestapeRadio.Main.c279114064d4f9706d2e1f458cd0b15a7" />
+<Entry OldName="ElDestapeRadio.Main.tbVolume" NewName="ElDestapeRadio.Main.ceb0d6bd73fe2cb1e2be1920b8ef07301" />
+<Entry OldName="ElDestapeRadio.Main.groupBox1" NewName="ElDestapeRadio.Main.cd9cab05d1a6c3f9cd43413f1957fdc21" />
+<Entry OldName="ElDestapeRadio.Main.lblVol" NewName="ElDestapeRadio.Main.cf90d8104845872336e4bde32a5ecb302" />
+<Entry OldName="ElDestapeRadio.Main.lbElDestape" NewName="ElDestapeRadio.Main.c34f5843eacbabadaf6a0097cd3a9bbbb" />
+<Entry OldName="ElDestapeRadio.Main.notifyIcon" NewName="ElDestapeRadio.Main.c51e043e2c041008a811c411d22f104c0" />
+<Entry OldName="ElDestapeRadio.Main.reproducirToolStripMenuItem" NewName="ElDestapeRadio.Main.c48d2321d0c8607036822c68a8c7a766e" />
+<Entry OldName="ElDestapeRadio.Main.detenerToolStripMenuItem" NewName="ElDestapeRadio.Main.cf5c8ec21fa45a647609a63f7c90d764a" />
+<Entry OldName="ElDestapeRadio.Main.toolStripSeparator1" NewName="ElDestapeRadio.Main.c187dac444bb4512b447b2cfac78aa6a8" />
+<Entry OldName="ElDestapeRadio.Main.acercaDeToolStripMenuItem" NewName="ElDestapeRadio.Main.c07fa62cead4811d04d55d39fbb6a921e" />
+<Entry OldName="ElDestapeRadio.Main.Menu" NewName="ElDestapeRadio.Main.c417b212b6858a60c1eb78221c7edf776" />
+<Entry OldName="ElDestapeRadio.Main.muteToolStripMenuItem" NewName="ElDestapeRadio.Main.ca86328e20469b48d6e1aaebb0ac9d866" />
+<Entry OldName="ElDestapeRadio.Main.lbAbout" NewName="ElDestapeRadio.Main.c2b54a5fce8100498860a85fbb2d14212" />
+<Entry OldName="ElDestapeRadio.Main.salirToolStripMenuItem" NewName="ElDestapeRadio.Main.c15da6f7816b5e39c284584b42ccab703" />
+<Entry OldName="ElDestapeRadio.EDataFlow.value__" NewName="A.cf246f82c228b560c0a260b876f46f24b.value__" />
+<Entry OldName="ElDestapeRadio.EDataFlow.eRender" NewName="A.cf246f82c228b560c0a260b876f46f24b.c1c4598ba376e3979caf71cf9fb1f6bfb" />
+<Entry OldName="ElDestapeRadio.EDataFlow.eCapture" NewName="A.cf246f82c228b560c0a260b876f46f24b.c6fee1240c412094efedf3e615dce615d" />
+<Entry OldName="ElDestapeRadio.EDataFlow.eAll" NewName="A.cf246f82c228b560c0a260b876f46f24b.ca74b5d5c159d8e22b4d5593675bce27c" />
+<Entry OldName="ElDestapeRadio.EDataFlow.EDataFlow_enum_count" NewName="A.cf246f82c228b560c0a260b876f46f24b.c85f1418d191b43b8a95f8571a54ae7c2" />
+<Entry OldName="ElDestapeRadio.ERole.value__" NewName="A.c8bcce9ea94526b2a30c48cfb92102514.value__" />
+<Entry OldName="ElDestapeRadio.ERole.eConsole" NewName="A.c8bcce9ea94526b2a30c48cfb92102514.c447d3bb33e935651cf4a80d0a10bc0c7" />
+<Entry OldName="ElDestapeRadio.ERole.eMultimedia" NewName="A.c8bcce9ea94526b2a30c48cfb92102514.c206649fdacfb8597ac69c037cd9a7984" />
+<Entry OldName="ElDestapeRadio.ERole.eCommunications" NewName="A.c8bcce9ea94526b2a30c48cfb92102514.c4db32ca9ad931fac3d912ce0e6396cbf" />
+<Entry OldName="ElDestapeRadio.ERole.ERole_enum_count" NewName="A.c8bcce9ea94526b2a30c48cfb92102514.c0ac5bb8260c13e86e9d0a5b7d961061e" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources..ctor()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956..ctor()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_ResourceManager()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_ResourceManager()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_Culture()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_Culture()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.set_Culture(CultureInfo value)" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_aboutBackgroud()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_aboutBackgroud()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_AboutIcon()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_AboutIcon()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_AboutIcon1()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_AboutIcon1()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_background()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_background()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_icon()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_icon()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_icon1()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_icon1()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_intro()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_intro()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_liveVideo()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_liveVideo()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_mute()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_mute()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_play()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_play()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_stop()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_stop()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_youtubeIcon()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_youtubeIcon()" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources.get_youtubeIcon1()" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956.get_youtubeIcon1()" />
+<Entry OldName="ElDestapeRadio.About.Form1_Load(Object sender, EventArgs e)" NewName="ElDestapeRadio.About.c4ab6bc0b395f51099e4be37bdbb61d6f(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.About.lbContacto_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="ElDestapeRadio.About.cebbbb9ae4ca34d3415c132ef696a66ac(Object c1bb71b6dbc60cf4acdb273072a63d253, LinkLabelLinkClickedEventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.About.About_FormClosing(Object sender, FormClosingEventArgs e)" NewName="ElDestapeRadio.About.c757b2b8f8a4ab817e555673d36f7ad0d(Object c1bb71b6dbc60cf4acdb273072a63d253, FormClosingEventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.About.InitializeComponent()" NewName="ElDestapeRadio.About.c60147ffde13633df1551b0cf6ac310e4()" />
+<Entry OldName="ElDestapeRadio.Main.btnPlay_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c9661225d3aa2d534d8815ce78b06538e(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.Play()" NewName="ElDestapeRadio.Main.cb4c1452bc002d671e2cf5bc73e7fa28c()" />
+<Entry OldName="ElDestapeRadio.Main.btnStop_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c7b64d1f2953df00b2b4636a94e172f5d(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.Stop()" NewName="ElDestapeRadio.Main.cc8ab53d5a03c7d6a7357e16be3b5be3c()" />
+<Entry OldName="ElDestapeRadio.Main.Main_FormClosing(Object sender, FormClosingEventArgs e)" NewName="ElDestapeRadio.Main.cad95d90a03b98434a48eeb8f2317da2b(Object c1bb71b6dbc60cf4acdb273072a63d253, FormClosingEventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.Main_Load(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c38fdaa696feb37615a02a412175bfe6f(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.getProcessId()" NewName="ElDestapeRadio.Main.c750a39bc8d608c31c88c170623310fb7()" />
+<Entry OldName="ElDestapeRadio.Main.chkMute_CheckedChanged(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c4090898390c066f587fa5f6ecf05cae6(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.waveOutSetVolume(IntPtr hwo, UInt32 dwVolume)" NewName="ElDestapeRadio.Main.c875ef7c578e6fb04085aa0032aa0eeba(IntPtr c8f0f24a8e18d4d083b30fdfff917dcb8, UInt32 c08681982b0d62f17f86e034964709ce8)" />
+<Entry OldName="ElDestapeRadio.Main.mute()" NewName="ElDestapeRadio.Main.c25ace494b8542f607f15b75390275acd()" />
+<Entry OldName="ElDestapeRadio.Main.unmute()" NewName="ElDestapeRadio.Main.c192af02188ed66ca06732a0ba231c81d()" />
+<Entry OldName="ElDestapeRadio.Main.tbVolume_Scroll(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.ca39963c3a749446172ca36d8757b2b08(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.tbVolume_ValueChanged(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c305187e9f7f61cebc8e5c51b5c6baa1d(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.lbElDestape_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="ElDestapeRadio.Main.cff3ef2f3745d21845ef97ba4bf896d00(Object c1bb71b6dbc60cf4acdb273072a63d253, LinkLabelLinkClickedEventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.reproducirToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c884909047588aab39d1e9e8c27242c71(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.detenerToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.ca3ecb3111fb219e9aa5c4716fc3754d8(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.muteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c8427e7c7a6a1d1219c6bd5d1e74dc47e(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.acercaDeToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c09e27ca858046b54f46a855e1bbc33df(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.lbAbout_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="ElDestapeRadio.Main.c0a27c93fa133da9429f9eee708c1343a(Object c1bb71b6dbc60cf4acdb273072a63d253, LinkLabelLinkClickedEventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.Main_Resize(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.c8d2689b8c2514e35bf8ce7b2e8afe201(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.notifyIcon_DoubleClick(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.ca264127cb7146a7b431ae9726ef7ea24(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.salirToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="ElDestapeRadio.Main.cebd22f312499a2945c68cd221b2a3b84(Object c1bb71b6dbc60cf4acdb273072a63d253, EventArgs c3b4cec25cc37127d0ebb1f938ecfa0ff)" />
+<Entry OldName="ElDestapeRadio.Main.InitializeComponent()" NewName="ElDestapeRadio.Main.c60147ffde13633df1551b0cf6ac310e4()" />
+<Entry OldName="ElDestapeRadio.Main.&lt;Play&gt;b__9_0()" NewName="ElDestapeRadio.Main.c28f221735625633e395d75c3198db5eb()" />
+<Entry OldName="ElDestapeRadio.Program.Main()" NewName="A.c9655b2c7a6c48f1d0ca28a394d054883.cfaeb27a300625806cc45c3c2e3e0f531()" />
+<Entry OldName="ElDestapeRadio.VolumeMixer.GetVolumeObject(Int32 pid)" NewName="ElDestapeRadio.VolumeMixer.ce5c5864961810ec923d420c109339401(Int32 c3429edd0a725b499184ae298343c7cd7)" />
+<Entry OldName="ElDestapeRadio.MMDeviceEnumerator..ctor()" NewName="A.cbb84b415e18120bf8281804798cbd21d..ctor()" />
+<Entry OldName="ElDestapeRadio.IMMDeviceEnumerator.NotImpl1()" NewName="A.cf8f31b41e6626514b3f4330afa9aee66.c2cf8dd9d131f6f55e4bded5881f8d53c()" />
+<Entry OldName="ElDestapeRadio.IMMDeviceEnumerator.GetDefaultAudioEndpoint(EDataFlow dataFlow, ERole role, IMMDevice&amp; ppDevice)" NewName="A.cf8f31b41e6626514b3f4330afa9aee66.cdf4e302ed240374d248050d89de17dc8(cf246f82c228b560c0a260b876f46f24b c7f453cc4df2f762b320b0728175790c7, c8bcce9ea94526b2a30c48cfb92102514 ca0df03b837ac258f0a0f78fdb2425a62, cd7a9e43182ff921496c796b49d2d0fc9&amp; c0ba608389fcd3a0da9405bf7630b95df)" />
+<Entry OldName="ElDestapeRadio.IMMDevice.Activate(Guid&amp; iid, Int32 dwClsCtx, IntPtr pActivationParams, Object&amp; ppInterface)" NewName="A.cd7a9e43182ff921496c796b49d2d0fc9.c5cb6eba38d907fdc961f889a1c0e4102(Guid&amp; c0c9700441b966fec763ea3829ec5bfea, Int32 cf215784f41c2f2ce8eaae1ec73b1b793, IntPtr cf48d4c639e6762c13c5d2c1a44691aa0, Object&amp; ce5399521c33abf06c83671364eb320ca)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionManager2.NotImpl1()" NewName="A.c58066296d452ac97f9165d45dfbe3288.c2cf8dd9d131f6f55e4bded5881f8d53c()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionManager2.NotImpl2()" NewName="A.c58066296d452ac97f9165d45dfbe3288.ce76236088d8a7c96694be16e0c0008ae()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionManager2.GetSessionEnumerator(IAudioSessionEnumerator&amp; SessionEnum)" NewName="A.c58066296d452ac97f9165d45dfbe3288.ca7137001f060d0e05869a66430abc15d(cf2741f918d24e3636ec7572a18667138&amp; c5f55200d1c1557b08faf834c1ef5661a)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionEnumerator.GetCount(Int32&amp; SessionCount)" NewName="A.cf2741f918d24e3636ec7572a18667138.cab985ec7a0568aaf345bc1a784841041(Int32&amp; cec3a63bfc7d530ce42dfdc34d19191ee)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionEnumerator.GetSession(Int32 SessionCount, IAudioSessionControl2&amp; Session)" NewName="A.cf2741f918d24e3636ec7572a18667138.cb12fc89b500c541cf0a25a4861b0504b(Int32 cec3a63bfc7d530ce42dfdc34d19191ee, c6bcb86755c5139aa53e47be45a002898&amp; c1765d2fa230c40c23c9b9d9e4c73b133)" />
+<Entry OldName="ElDestapeRadio.ISimpleAudioVolume.SetMasterVolume(Single fLevel, Guid&amp; EventContext)" NewName="A.ccd84330358c548411800f2f9ad7f7893.c90763fb9cb7f999534aea5565086b4c5(Single cc38cda054dde393abe34cbc06e8ce0ad, Guid&amp; ca55c5a93b63619cd5310f0034aa74e95)" />
+<Entry OldName="ElDestapeRadio.ISimpleAudioVolume.GetMasterVolume(Single&amp; pfLevel)" NewName="A.ccd84330358c548411800f2f9ad7f7893.cfcb31853f84e63ea85fe339d8e4a6e39(Single&amp; cbd7345bf931dd4c71965634458972cff)" />
+<Entry OldName="ElDestapeRadio.ISimpleAudioVolume.SetMute(Boolean bMute, Guid&amp; EventContext)" NewName="A.ccd84330358c548411800f2f9ad7f7893.cd47ac790b8bbb49f9992b196e8bf24b8(Boolean c73893123d4f75790e574cd686441f169, Guid&amp; ca55c5a93b63619cd5310f0034aa74e95)" />
+<Entry OldName="ElDestapeRadio.ISimpleAudioVolume.GetMute(Boolean&amp; pbMute)" NewName="A.ccd84330358c548411800f2f9ad7f7893.ccf06e595584540528a4b0ec4410c4039(Boolean&amp; c044102cecf031bc7ce5ef3edd0a5f197)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.NotImpl0()" NewName="A.c6bcb86755c5139aa53e47be45a002898.cbcb3294838d7f6a919f40b5be89192c4()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetDisplayName(String&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c3e48cc48f0c980873e8ea4f2d1083f88(String&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.SetDisplayName(String Value, Guid EventContext)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c5d3c740654c9e0dd7bf0516265a4de62(String c13e3be1f1ab532b412c19fe5030982bf, Guid ca55c5a93b63619cd5310f0034aa74e95)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetIconPath(String&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.ce9ab7a2646d8f112cc54b43f84714155(String&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.SetIconPath(String Value, Guid EventContext)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c4ff5e616321ec00de5a397a9d49d5d5e(String c13e3be1f1ab532b412c19fe5030982bf, Guid ca55c5a93b63619cd5310f0034aa74e95)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetGroupingParam(Guid&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.cbfc7a6f0c3b78cd4254ec3616490d4f0(Guid&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.SetGroupingParam(Guid Override, Guid EventContext)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c5e39b6eae835957f35acb95671cbbd63(Guid cf175db4c00837e6d0e5b4b213d152fda, Guid ca55c5a93b63619cd5310f0034aa74e95)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.NotImpl1()" NewName="A.c6bcb86755c5139aa53e47be45a002898.c2cf8dd9d131f6f55e4bded5881f8d53c()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.NotImpl2()" NewName="A.c6bcb86755c5139aa53e47be45a002898.ce76236088d8a7c96694be16e0c0008ae()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetSessionIdentifier(String&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.cd847433ae468222ea7670467c6c16f24(String&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetSessionInstanceIdentifier(String&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c7f80e2d372c112afac101b230f200e54(String&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.GetProcessId(Int32&amp; pRetVal)" NewName="A.c6bcb86755c5139aa53e47be45a002898.c4ed7a85c5ccf537bb1d103168ad5b694(Int32&amp; c6473c6fa355c2e7984502f73e2bf058d)" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.IsSystemSoundsSession()" NewName="A.c6bcb86755c5139aa53e47be45a002898.cefe01238d1b0377311744efcd8a3f7a8()" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2.SetDuckingPreference(Boolean optOut)" NewName="A.c6bcb86755c5139aa53e47be45a002898.cb17a028df6c7f8f578400c3acb6cc601(Boolean ca804fca79b05c50ee38a58695e957141)" />
+<Entry OldName="ElDestapeRadioPlayer.Properties.Resources" NewName="A.c3cb4dc59f00d7f1ebb841599e7e91956" />
+<Entry OldName="ElDestapeRadio.Program" NewName="A.c9655b2c7a6c48f1d0ca28a394d054883" />
+<Entry OldName="ElDestapeRadio.MMDeviceEnumerator" NewName="A.cbb84b415e18120bf8281804798cbd21d" />
+<Entry OldName="ElDestapeRadio.EDataFlow" NewName="A.cf246f82c228b560c0a260b876f46f24b" />
+<Entry OldName="ElDestapeRadio.ERole" NewName="A.c8bcce9ea94526b2a30c48cfb92102514" />
+<Entry OldName="ElDestapeRadio.IMMDeviceEnumerator" NewName="A.cf8f31b41e6626514b3f4330afa9aee66" />
+<Entry OldName="ElDestapeRadio.IMMDevice" NewName="A.cd7a9e43182ff921496c796b49d2d0fc9" />
+<Entry OldName="ElDestapeRadio.IAudioSessionManager2" NewName="A.c58066296d452ac97f9165d45dfbe3288" />
+<Entry OldName="ElDestapeRadio.IAudioSessionEnumerator" NewName="A.cf2741f918d24e3636ec7572a18667138" />
+<Entry OldName="ElDestapeRadio.ISimpleAudioVolume" NewName="A.ccd84330358c548411800f2f9ad7f7893" />
+<Entry OldName="ElDestapeRadio.IAudioSessionControl2" NewName="A.c6bcb86755c5139aa53e47be45a002898" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Properties\Resources.Designer.cs" NewName="File0" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Properties\Settings.Designer.cs" NewName="File1" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\About.cs" NewName="File2" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\About.designer.cs" NewName="File3" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Main.cs" NewName="File4" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Main.Designer.cs" NewName="File5" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Program.cs" NewName="File6" />
+<Entry OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\VolumeMixer.cs" NewName="File7" />
+<Assembly Name="ElDestapeRadioPlayer"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="ElDestapeRadioPlayer.Properties.Resources" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663301" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663302" Name="get_aboutBackgroud" Variables="" ParamCnt="0" />
+<Method Token="100663303" Name="get_AboutIcon" Variables="" ParamCnt="0" />
+<Method Token="100663304" Name="get_AboutIcon1" Variables="" ParamCnt="0" />
+<Method Token="100663305" Name="get_background" Variables="" ParamCnt="0" />
+<Method Token="100663306" Name="get_icon" Variables="" ParamCnt="0" />
+<Method Token="100663307" Name="get_icon1" Variables="" ParamCnt="0" />
+<Method Token="100663308" Name="get_intro" Variables="" ParamCnt="0" />
+<Method Token="100663309" Name="get_liveVideo" Variables="" ParamCnt="0" />
+<Method Token="100663310" Name="get_mute" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="get_play" Variables="" ParamCnt="0" />
+<Method Token="100663312" Name="get_stop" Variables="" ParamCnt="0" />
+<Method Token="100663313" Name="get_youtubeIcon" Variables="" ParamCnt="0" />
+<Method Token="100663314" Name="get_youtubeIcon1" Variables="" ParamCnt="0" />
+<Field Token="67108865" Name="resourceMan" />
+<Field Token="67108866" Name="resourceCulture" />
+<Type Token="33554436" Name="ElDestapeRadioPlayer.Properties.Settings" />
+<Method Token="100663316" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663317" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663318" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108867" Name="defaultInstance" />
+<Type Token="33554438" Name="ElDestapeRadio.About" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="Form1_Load" Variables="this;sender;e;reader;" ParamCnt="3" />
+<Method Token="100663327" Name="lbContacto_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663328" Name="About_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663329" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663330" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108869" Name="waveOut" />
+<Field Token="67108870" Name="components" />
+<Field Token="67108871" Name="pictureBox1" />
+<Field Token="67108872" Name="lbContacto" />
+<Field Token="67108873" Name="label1" />
+<Type Token="33554439" Name="ElDestapeRadio.Main" />
+<Method Token="100663331" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663333" Name="get_playerThread" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="set_playerThread" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663335" Name="btnPlay_Click" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663336" Name="Play" Variables="this;" ParamCnt="1" />
+<Method Token="100663337" Name="btnStop_Click" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663338" Name="Stop" Variables="this;" ParamCnt="1" />
+<Method Token="100663339" Name="Main_FormClosing" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663340" Name="Main_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="getProcessId" Variables="this;pID;V_1;V_2;process;" ParamCnt="1" />
+<Method Token="100663342" Name="chkMute_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="waveOutSetVolume" Variables="hwo;dwVolume;" ParamCnt="2" />
+<Method Token="100663344" Name="FindWindow" Variables="strClassName;strWindowName;" ParamCnt="2" />
+<Method Token="100663345" Name="GetWindowThreadProcessId" Variables="hWnd;processId;" ParamCnt="2" />
+<Method Token="100663346" Name="mute" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="unmute" Variables="this;level;" ParamCnt="1" />
+<Method Token="100663348" Name="playRadio" Variables="this;urlRadio;mf;wo;ex;" ParamCnt="2" />
+<Method Token="100663349" Name="tbVolume_Scroll" Variables="this;sender;e;value;" ParamCnt="3" />
+<Method Token="100663350" Name="tbVolume_ValueChanged" Variables="this;sender;e;value;" ParamCnt="3" />
+<Method Token="100663351" Name="lbElDestape_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="reproducirToolStripMenuItem_Click" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663353" Name="detenerToolStripMenuItem_Click" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663354" Name="muteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="acercaDeToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="lbAbout_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="Main_Resize" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="notifyIcon_DoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="salirToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663361" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663362" Name="&lt;Play&gt;b__9_0" Variables="this;" ParamCnt="1" />
+<Field Token="67108874" Name="isPlaying" />
+<Field Token="67108875" Name="isInterrupted" />
+<Field Token="67108876" Name="pId" />
+<Field Token="67108877" Name="&lt;playerThread&gt;k__BackingField" />
+<Field Token="67108878" Name="components" />
+<Field Token="67108879" Name="btnPlay" />
+<Field Token="67108880" Name="btnStop" />
+<Field Token="67108881" Name="chkMute" />
+<Field Token="67108882" Name="tbVolume" />
+<Field Token="67108883" Name="groupBox1" />
+<Field Token="67108884" Name="lblVol" />
+<Field Token="67108885" Name="lbElDestape" />
+<Field Token="67108886" Name="notifyIcon" />
+<Field Token="67108887" Name="reproducirToolStripMenuItem" />
+<Field Token="67108888" Name="detenerToolStripMenuItem" />
+<Field Token="67108889" Name="toolStripSeparator1" />
+<Field Token="67108890" Name="acercaDeToolStripMenuItem" />
+<Field Token="67108891" Name="Menu" />
+<Field Token="67108892" Name="muteToolStripMenuItem" />
+<Field Token="67108893" Name="lbAbout" />
+<Field Token="67108894" Name="salirToolStripMenuItem" />
+<Type Token="33554440" Name="ElDestapeRadio.Program" />
+<Method Token="100663363" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554442" Name="ElDestapeRadio.VolumeMixer" />
+<Method Token="100663371" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="GetApplicationVolume" Variables="pid;volume;level;V_2;" ParamCnt="1" />
+<Method Token="100663373" Name="GetApplicationMute" Variables="pid;volume;mute;V_2;" ParamCnt="1" />
+<Method Token="100663374" Name="SetApplicationVolume" Variables="pid;level;volume;guid;" ParamCnt="2" />
+<Method Token="100663375" Name="SetApplicationMute" Variables="pid;mute;volume;guid;" ParamCnt="2" />
+<Method Token="100663376" Name="GetVolumeObject" Variables="pid;deviceEnumerator;speakers;IID_IAudioSessionManager2;o;mgr;sessionEnumerator;count;volumeControl;i;ctl;cpid;" ParamCnt="1" />
+<Type Token="33554443" Name="ElDestapeRadio.MMDeviceEnumerator" />
+<Method Token="100663377" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554444" Name="ElDestapeRadio.EDataFlow" />
+<Field Token="67108897" Name="value__" />
+<Field Token="67108898" Name="eRender" />
+<Field Token="67108899" Name="eCapture" />
+<Field Token="67108900" Name="eAll" />
+<Field Token="67108901" Name="EDataFlow_enum_count" />
+<Type Token="33554445" Name="ElDestapeRadio.ERole" />
+<Field Token="67108902" Name="value__" />
+<Field Token="67108903" Name="eConsole" />
+<Field Token="67108904" Name="eMultimedia" />
+<Field Token="67108905" Name="eCommunications" />
+<Field Token="67108906" Name="ERole_enum_count" />
+<Type Token="33554446" Name="ElDestapeRadio.IMMDeviceEnumerator" />
+<Method Token="100663378" Name="NotImpl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name="GetDefaultAudioEndpoint" Variables="this;dataFlow;role;ppDevice;" ParamCnt="4" />
+<Type Token="33554447" Name="ElDestapeRadio.IMMDevice" />
+<Method Token="100663380" Name="Activate" Variables="this;iid;dwClsCtx;pActivationParams;ppInterface;" ParamCnt="5" />
+<Type Token="33554448" Name="ElDestapeRadio.IAudioSessionManager2" />
+<Method Token="100663381" Name="NotImpl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663382" Name="NotImpl2" Variables="this;" ParamCnt="1" />
+<Method Token="100663383" Name="GetSessionEnumerator" Variables="this;SessionEnum;" ParamCnt="2" />
+<Type Token="33554450" Name="ElDestapeRadio.IAudioSessionEnumerator" />
+<Method Token="100663387" Name="GetCount" Variables="this;SessionCount;" ParamCnt="2" />
+<Method Token="100663388" Name="GetSession" Variables="this;SessionCount;Session;" ParamCnt="3" />
+<Type Token="33554451" Name="ElDestapeRadio.ISimpleAudioVolume" />
+<Method Token="100663389" Name="SetMasterVolume" Variables="this;fLevel;EventContext;" ParamCnt="3" />
+<Method Token="100663390" Name="GetMasterVolume" Variables="this;pfLevel;" ParamCnt="2" />
+<Method Token="100663391" Name="SetMute" Variables="this;bMute;EventContext;" ParamCnt="3" />
+<Method Token="100663392" Name="GetMute" Variables="this;pbMute;" ParamCnt="2" />
+<Type Token="33554452" Name="ElDestapeRadio.IAudioSessionControl2" />
+<Method Token="100663393" Name="NotImpl0" Variables="this;" ParamCnt="1" />
+<Method Token="100663394" Name="GetDisplayName" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663395" Name="SetDisplayName" Variables="this;Value;EventContext;" ParamCnt="3" />
+<Method Token="100663396" Name="GetIconPath" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663397" Name="SetIconPath" Variables="this;Value;EventContext;" ParamCnt="3" />
+<Method Token="100663398" Name="GetGroupingParam" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663399" Name="SetGroupingParam" Variables="this;Override;EventContext;" ParamCnt="3" />
+<Method Token="100663400" Name="NotImpl1" Variables="this;" ParamCnt="1" />
+<Method Token="100663401" Name="NotImpl2" Variables="this;" ParamCnt="1" />
+<Method Token="100663402" Name="GetSessionIdentifier" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663403" Name="GetSessionInstanceIdentifier" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663404" Name="GetProcessId" Variables="this;pRetVal;" ParamCnt="2" />
+<Method Token="100663405" Name="IsSystemSoundsSession" Variables="this;" ParamCnt="1" />
+<Method Token="100663406" Name="SetDuckingPreference" Variables="this;optOut;" ParamCnt="2" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663315" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Properties\Resources.Designer.cs" NewName="File0" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Properties\Settings.Designer.cs" NewName="File1" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\About.cs" NewName="File2" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\About.designer.cs" NewName="File3" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Main.cs" NewName="File4" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Main.Designer.cs" NewName="File5" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\Program.cs" NewName="File6" />
+<File OldName="C:\Source\ElDestapeRadio\ElDestapeRadioPlayer\VolumeMixer.cs" NewName="File7" />
+</Mappings>
